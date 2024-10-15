@@ -1,0 +1,7 @@
+[
+  {
+    "name": "my-app-container",
+    "imageUri": "422221795372.dkr.ecr.ap-northeast-2.amazonaws.com/my-app-repo:latest"
+  }
+]
+
