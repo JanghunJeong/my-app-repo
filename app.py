@@ -5,7 +5,7 @@ app = Flask(__name__)
 # 기본 경로('/')에 간단한 응답을 추가합니다.
 @app.route('/')
 def hello():
-    return 'Hello, MY-APP-UPDATE!'
+    return 'TEST PIPELINE'
 
 # Health Check를 위한 엔드포인트('/health')를 추가합니다.
 @app.route('/health')
